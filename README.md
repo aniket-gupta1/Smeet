@@ -1,4 +1,4 @@
 # Smeet
-A PyQT app for on-click access to all your meetings. 
+A PyQT app for one-click access to all your meetings. 
 
 
