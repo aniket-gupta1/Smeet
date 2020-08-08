@@ -2,7 +2,7 @@
 A PyQT app for one-click access to all your meetings. 
 
 <H3>Prerequisites</H3>
-1. pprint (pip3 install pprint)\n
+1. pprint (pip3 install pprint)<br/>
 2. pickle (pip3 install pickle)
 3. datetime (pip3 install datetime)
 4. webbrowser (pip3 install webbrowser)
