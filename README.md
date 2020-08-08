@@ -2,7 +2,7 @@
 A PyQT app for one-click access to all your meetings. 
 
 <H3>Prerequisites</H3>
-1. pprint (pip3 install pprint)
+1. pprint (pip3 install pprint)\n
 2. pickle (pip3 install pickle)
 3. datetime (pip3 install datetime)
 4. webbrowser (pip3 install webbrowser)
@@ -13,7 +13,7 @@ A PyQT app for one-click access to all your meetings.
 9. Google_auth (pip install google-auth-oauthlib)
 10. apiclient (pip3 install apiclient)
 
-<H3>Steps to run the app:</H3>
+<H3>Steps to run the app</H3>
 1. Run Main_app.py 
 2. From the login window, your default browser will open.
 3. Choose your google account
